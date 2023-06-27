@@ -1,6 +1,6 @@
 # 47-mult-app
 ## Description
-Project aims to create -Counter-project
+Project aims to create Mult application project
 ## Project Skeleton
 ```
 Progress-Steps (folder)
